@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Doãn Hiệp
+- 👀 I’m interested in Mobile App and Bukkit Plugin
+- 🌱 I’m currently learning javascript and React Native
+- 📫 How to reach me
+  - Discord: Sidz#0242
