@@ -4,9 +4,9 @@
 
 👌 My favorite programming language is Java
 
-👀 I’m interested in Mobile Apps and Bukkit Plugins
+👀 I’m interested in Backend Development, Mobile Apps and Bukkit Plugins
 
-🌱 I’m learning Javascript and React Native
+🌱 I’m learning Golang
 
 🕹 Currently developer/owner of [3FMC](https://3fmc.com)
 
